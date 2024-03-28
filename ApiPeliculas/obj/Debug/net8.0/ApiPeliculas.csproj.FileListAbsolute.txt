@@ -135,3 +135,4 @@ C:\Users\Sistemas-KG\Documents\ProyectosVS22\ApiPeliculas\ApiPeliculas\obj\Debug
 C:\Users\Sistemas-KG\Documents\ProyectosVS22\ApiPeliculas\ApiPeliculas\obj\Debug\net8.0\ApiPeliculas.pdb
 C:\Users\Sistemas-KG\Documents\ProyectosVS22\ApiPeliculas\ApiPeliculas\obj\Debug\net8.0\ApiPeliculas.genruntimeconfig.cache
 C:\Users\Sistemas-KG\Documents\ProyectosVS22\ApiPeliculas\ApiPeliculas\obj\Debug\net8.0\ref\ApiPeliculas.dll
+C:\Users\Sistemas-KG\Documents\ProyectosVS22\ApiPeliculas\ApiPeliculas\bin\Debug\net8.0\AutoMapper.dll

@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Sistemas-KG\\Documents\\ProyectosVS22\\ApiPeliculas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{743089EF-1F25-48ED-9EF7-ECFE62291894}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\sistemas-kg\\documents\\proyectosvs22\\apipeliculas\\apipeliculas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{743089EF-1F25-48ED-9EF7-ECFE62291894}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{743089EF-1F25-48ED-9EF7-ECFE62291894}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\sistemas-kg\\documents\\proyectosvs22\\apipeliculas\\apipeliculas\\repositorio\\categoriarespositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743089EF-1F25-48ED-9EF7-ECFE62291894}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\repositorio\\categoriarespositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{743089EF-1F25-48ED-9EF7-ECFE62291894}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\sistemas-kg\\documents\\proyectosvs22\\apipeliculas\\apipeliculas\\modelos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{743089EF-1F25-48ED-9EF7-ECFE62291894}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\modelos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{743089EF-1F25-48ED-9EF7-ECFE62291894}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\sistemas-kg\\documents\\proyectosvs22\\apipeliculas\\apipeliculas\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743089EF-1F25-48ED-9EF7-ECFE62291894}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{743089EF-1F25-48ED-9EF7-ECFE62291894}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\sistemas-kg\\documents\\proyectosvs22\\apipeliculas\\apipeliculas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{743089EF-1F25-48ED-9EF7-ECFE62291894}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{743089EF-1F25-48ED-9EF7-ECFE62291894}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\sistemas-kg\\documents\\proyectosvs22\\apipeliculas\\apipeliculas\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{743089EF-1F25-48ED-9EF7-ECFE62291894}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{743089EF-1F25-48ED-9EF7-ECFE62291894}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\sistemas-kg\\documents\\proyectosvs22\\apipeliculas\\apipeliculas\\modelos\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743089EF-1F25-48ED-9EF7-ECFE62291894}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\modelos\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sistemas-KG\\Documents\\ProyectosVS22\\ApiPeliculas\\ApiPeliculas\\Program.cs",
-              "RelativeDocumentMoniker": "ApiPeliculas\\Program.cs",
-              "ToolTip": "C:\\Users\\Sistemas-KG\\Documents\\ProyectosVS22\\ApiPeliculas\\ApiPeliculas\\Program.cs",
-              "RelativeToolTip": "ApiPeliculas\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Title": "CategoriaRespositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Sistemas-KG\\Documents\\ProyectosVS22\\ApiPeliculas\\ApiPeliculas\\Repositorio\\CategoriaRespositorio.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Repositorio\\CategoriaRespositorio.cs",
+              "ToolTip": "C:\\Users\\Sistemas-KG\\Documents\\ProyectosVS22\\ApiPeliculas\\ApiPeliculas\\Repositorio\\CategoriaRespositorio.cs",
+              "RelativeToolTip": "ApiPeliculas\\Repositorio\\CategoriaRespositorio.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAApwBwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T15:27:21.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Sistemas-KG\\Documents\\ProyectosVS22\\ApiPeliculas\\ApiPeliculas\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ApiPeliculas\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Sistemas-KG\\Documents\\ProyectosVS22\\ApiPeliculas\\ApiPeliculas\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ApiPeliculas\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T15:23:44.52Z",
+              "WhenOpened": "2024-03-28T21:52:29.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Sistemas-KG\\Documents\\ProyectosVS22\\ApiPeliculas\\ApiPeliculas\\appsettings.json",
-              "RelativeDocumentMoniker": "ApiPeliculas\\appsettings.json",
-              "ToolTip": "C:\\Users\\Sistemas-KG\\Documents\\ProyectosVS22\\ApiPeliculas\\ApiPeliculas\\appsettings.json",
-              "RelativeToolTip": "ApiPeliculas\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-28T15:17:43.622Z",
+              "Title": "CategoriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sistemas-KG\\Documents\\ProyectosVS22\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dtos\\CategoriaDto.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Modelos\\Dtos\\CategoriaDto.cs",
+              "ToolTip": "C:\\Users\\Sistemas-KG\\Documents\\ProyectosVS22\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dtos\\CategoriaDto.cs",
+              "RelativeToolTip": "ApiPeliculas\\Modelos\\Dtos\\CategoriaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:36:01.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\Sistemas-KG\\Documents\\ProyectosVS22\\ApiPeliculas\\ApiPeliculas\\Modelos\\Categoria.cs",
-              "RelativeDocumentMoniker": "ApiPeliculas\\Modelos\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Sistemas-KG\\Documents\\ProyectosVS22\\ApiPeliculas\\ApiPeliculas\\Modelos\\Categoria.cs",
-              "RelativeToolTip": "ApiPeliculas\\Modelos\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Sistemas-KG\\Documents\\ProyectosVS22\\ApiPeliculas\\ApiPeliculas\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Sistemas-KG\\Documents\\ProyectosVS22\\ApiPeliculas\\ApiPeliculas\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "ApiPeliculas\\Controllers\\CategoriasController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwD0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T15:13:35.973Z",
+              "WhenOpened": "2024-03-28T20:44:04.582Z",
               "EditorCaption": ""
             }
           ]

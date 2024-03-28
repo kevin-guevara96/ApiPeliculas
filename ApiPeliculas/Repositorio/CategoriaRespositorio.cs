@@ -26,7 +26,9 @@ namespace ApiPeliculas.Repositorio
 
         public bool CrearCategoria(Categoria categoria)
         {
-            _bd.Categorias.Remove(categoria);
+            categoria.FechaCreacion = DateTime.Now;
+
+            _bd.Categorias.Add(categoria);
             return Guardar();
         }
 
