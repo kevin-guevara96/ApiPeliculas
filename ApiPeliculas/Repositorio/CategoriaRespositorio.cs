@@ -17,9 +17,14 @@ namespace ApiPeliculas.Repositorio
 
         public bool ActualizarCategoria(Categoria categoria)
         {
-            categoria.FechaCreacion = DateTime.Now;
-
             _bd.Categorias.Update(categoria);
+
+            return Guardar();
+        }
+
+        public bool BorrarCategoria(Categoria categoria)
+        {
+            _bd.Categorias.Remove(categoria);
 
             return Guardar();
         }

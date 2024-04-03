@@ -11,10 +11,14 @@ namespace ApiPeliculas.Data
         }
 
         public DbSet<Categoria> Categorias { get; set; }
+        public DbSet<Pelicula> Peliculas { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Categoria>().ToTable("Categoria");
+            modelBuilder.Entity<Pelicula>().ToTable("Pelicula");
+            modelBuilder.Entity<Usuario>().ToTable("Usuario");
         }
     }
 }
